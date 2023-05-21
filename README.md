@@ -35,7 +35,7 @@ run the flask app by using 'flask run' command,this will start the flask develop
 
 By reaching to that site and giving inputs in .png format we will get desired ouputs.
 
-### refrence
+### Refrence
 https://www.section.io/engineering-education/deploying-machine-learning-models-using-flask/
 
 
