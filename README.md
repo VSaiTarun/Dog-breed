@@ -41,9 +41,13 @@ https://www.section.io/engineering-education/deploying-machine-learning-models-u
 
 
 ## Sample Input and Output
-<img width="560" alt="image" src="https://github.com/VSaiTarun/Dog-breed/assets/132877695/ce395fa7-af9f-4a54-920c-ca2bd3ba5c30">
 
-<img width="960" alt="image" src="https://github.com/VSaiTarun/Dog-breed/assets/132877695/7a4cb14b-6df9-4f9b-80ca-13b073971bd2">
+>input
+<img width="600" alt="image" src="https://github.com/VSaiTarun/Dog-breed/assets/132877695/ce395fa7-af9f-4a54-920c-ca2bd3ba5c30">
+
+
+>ouput
+<img width="600" alt="image" src="https://github.com/VSaiTarun/Dog-breed/assets/132877695/7a4cb14b-6df9-4f9b-80ca-13b073971bd2">
 
 
 
